@@ -3,6 +3,7 @@ package shopping_cart;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 
+
 // class that represents the item that we create with user input data and re use to help print the total cart info
 public class Item {
 
