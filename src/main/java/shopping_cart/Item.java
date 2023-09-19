@@ -57,6 +57,7 @@ public class Item {
         init = init + "Total Price: "+ total;
 
         return init;
+        
     }
 
 }
